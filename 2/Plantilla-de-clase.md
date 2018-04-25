@@ -1,6 +1,6 @@
 # Creando mi empresa
 
-* Módulo III - Proyectos reales
+**Módulo III - Proyectos reales**
 
 ## Objetivos
 
@@ -32,7 +32,7 @@ Los alumnos trabajarán en equipos de hasta 4 personas para crear una empresa de
 
 * PPT
 * Plantilla de empresa
-* [generador de logos](https://www.logaster.com)
+* [Generador de logos](https://www.logaster.com)
 
 ## Tareas
 

@@ -1,6 +1,6 @@
 # Nombre de la clase
 
-* Módulo III - Proyectos reales
+**Módulo III - Proyectos reales**
 
 ## Objetivos
 

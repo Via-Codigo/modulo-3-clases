@@ -1,6 +1,6 @@
 # Presentación del módulo
 
-* Módulo III - Proyectos reales
+**Módulo III - Proyectos reales**
 
 ## Objetivos
 
