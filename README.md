@@ -2,10 +2,12 @@
 
 Este repositorio sirve para ir generando las clases específicas del módulo 3, poder seguir sus cambios y aprender de ellos.
 
-## Software
+## Material
+
+### Software
 
 * **[Pencil](https://pencil.evolus.vn/)**: Herramienta de linux offline para wireframes
 
-## Templates
+### Templates
 
 Templates de licencia libre para los ejercicios de clase

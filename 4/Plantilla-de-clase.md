@@ -33,3 +33,5 @@ los diseñadores/programadores (equipo de desarrollo).
 * Screenshots de empresas web
 
 ## Tareas
+
+`NONE`

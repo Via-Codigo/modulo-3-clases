@@ -39,4 +39,4 @@ programen en parejas la web más difícil de usar que se les ocurra.
 
 ## Tareas
 
-Deberán realizar en parejas las webs más difícles de usar posibles. Deberán presentar su trabajo de forma seria.
+`NONE`
