@@ -8,6 +8,6 @@ fi
 
 for i in $(eval echo {1..$1})
 do
-    mkdir -p test/$i
-    cp Plantilla-de-clase.md ./test/$i/.
+    mkdir -p $i
+    cp Plantilla-de-clase.md ./$i/.
 done
