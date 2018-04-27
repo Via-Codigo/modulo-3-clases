@@ -1,4 +1,4 @@
-# Nombre de la clase
+# Pair Programming
 
 **Módulo III - Proyectos reales**
 
