@@ -1,6 +1,13 @@
 #!/bin/bash
-for i in {4..31}
+
+if [ -z "$1" ]
+  then
+    echo "No indicaste el número de plantillas a crear \n el uso es :  ./create-classes.sh <numero> "
+    exit 1
+fi
+
+for i in $(eval echo {1..$1})
 do
-    mkdir $i
-    cp Plantilla-de-clase.md ./$i/.
+    mkdir -p test/$i
+    cp Plantilla-de-clase.md ./test/$i/.
 done
