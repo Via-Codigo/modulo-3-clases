@@ -26,9 +26,8 @@ programen en parejas la web más difícil de usar que se les ocurra.
 
 ## Material
 
-* Imágenes y gifs
-* Sonidos y audios
-* Ppt
+* gifs (estan en esta carpeta)
+* [Ppt](https://drive.google.com/open?id=1AjxYekbHG7MtcjhSPGWxHkwAszXaroHRcdeUHym-Qgc)
 * Ejemplos de webs difíciles de usar
   * https://www.lingscars.com/ (difícil de usar)
   * http://art.yale.edu/ (no se entiende para que es)

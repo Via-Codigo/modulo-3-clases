@@ -21,7 +21,7 @@ Los alumnos trabajarán en equipos de hasta 4 personas para crear una empresa de
   * **Nombre**: 30 minutos para pensar en un nombre
   * **Logo**: 30 minutos parta crear sus logos
   * **Factor diferencial**: Deben pensar en cual será su factor diferencial
-  * **Slogan**: Deben pensar en un slogan que represente su factor diferencial
+  * **Slogan (Lema)**: Deben pensar en un slogan que represente su factor diferencial
 
 ## Conceptos
 
@@ -31,9 +31,9 @@ Los alumnos trabajarán en equipos de hasta 4 personas para crear una empresa de
 
 ## Material
 
-* Webs de ejemplo de Empresas (USB y [online]())
+* Webs de ejemplo de Empresas (USB y [online](https://github.com/Via-Codigo/modulo-3-clases/tree/master/Material/screens%20de%20empresas%20web))
 * [PPT](https://docs.google.com/presentation/d/1MYrK8TUqNOfLLXEZ21rAwmSs9biIV6Ln2PWIGItCbw8/edit?usp=sharing)
-* Ficha de empresa (1 por equipo)
+* [Ficha de empresa](https://docs.google.com/document/d/1U9_yRVihhbZvQanRvSs3fUsCpfwkFCFUgdN5Dz4RBAI/edit?usp=sharing) (1 por equipo)
 * [Generador de logos](https://www.logaster.com)
 
 ## Tareas
