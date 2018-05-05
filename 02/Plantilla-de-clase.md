@@ -14,13 +14,14 @@ Los alumnos trabajarán en equipos de hasta 4 personas para crear una empresa de
 
 ## Actividades
 
+* **Recolocación de sitios**: Los alumnos llegarán para ver donde les toca sentarse y con quién.
 * **Presentación sobre la tarea**: Se presentará un ppt con los elementos que deberán realizar para sus empresas. Se les mostrará otras empresas y sus factores diferenciales.
-* **Crear empresa**: en equipo deberán crear
+* **Crear empresa**: en equipo deberán rellenar su ficha de empresa con los siguientes items:
+
   * **Nombre**: 30 minutos para pensar en un nombre
   * **Logo**: 30 minutos parta crear sus logos
-  * Factor diferencial
-  * Slogan
-  * Propuesta de roles de equipo (los alumnos cuentan a su equipo que les gusta y que no de cada rol)
+  * **Factor diferencial**: Deben pensar en cual será su factor diferencial
+  * **Slogan**: Deben pensar en un slogan que represente su factor diferencial
 
 ## Conceptos
 
@@ -30,8 +31,9 @@ Los alumnos trabajarán en equipos de hasta 4 personas para crear una empresa de
 
 ## Material
 
-* PPT
-* Plantilla de empresa
+* Webs de ejemplo de Empresas (USB y [online]())
+* [PPT](https://docs.google.com/presentation/d/1MYrK8TUqNOfLLXEZ21rAwmSs9biIV6Ln2PWIGItCbw8/edit?usp=sharing)
+* Ficha de empresa (1 por equipo)
 * [Generador de logos](https://www.logaster.com)
 
 ## Tareas

@@ -17,7 +17,6 @@ En esta clase se les enseñará el camino que tendrá realizar trabajos reales. 
 
 * **Presentación**: Se presentará un ppt con el vistazo general de lo que veremos en el módulo
 * **Preguntas**: Se responderan preguntas sobre lo presentado
-* **Encuesta: ¿Qué repasar?**: Se escogerá con ellos que cosas desean repasar de lo visto en el módulo I & II
 
 ## Conceptos
 
@@ -28,7 +27,6 @@ En esta clase se les enseñará el camino que tendrá realizar trabajos reales. 
 ## Material
 
 * PPT
-* Encuesta
 
 ## Tareas
 
