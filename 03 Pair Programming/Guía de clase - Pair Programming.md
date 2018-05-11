@@ -15,8 +15,9 @@ programen en parejas la web más difícil de usar que se les ocurra.
 
 ## Actividades
 
-* **Presentación Programación en Pareja**: se presentará el ppt con la metodología
+
 * **Presentación de páginas webs poco útiles**: Se presentará el concepto de UX y se revisará con ellos 6 páginas web con problemas (ver material). Se analizará en conjunto para mostrar conceptos básicos de UX.
+* **Presentación Programación en Pareja**: se presentará el ppt con la metodología
 * **Programando en parejas**: Se programará en parejas la página menos útil posible
 
 ## Conceptos
