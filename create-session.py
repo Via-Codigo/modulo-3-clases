@@ -44,6 +44,8 @@ session_template = """
 ## Material
 
 ## Tareas
+
+`NONE`
 """.format(title)
 
 

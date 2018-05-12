@@ -4,33 +4,25 @@
 
 ## Objetivos
 
-* Acercarse a la creación de contenidos
-* Ver la relación entre contenidos y estructura
 * Aprender a trabajar con código de otros
 * Aprender sobre plantillas y licencias
 
 ## Descripción corta
 
-Los equipos deberán comenzar a trabajar en sus páginas de empresa. Para esto necesitan dividirse en dos grupos, los creadores de contenido y
-los diseñadores/programadores (equipo de desarrollo).
+Los chicos en parejas deberán aproximarse a las plantillas y aprender a hacer modificaciones en ellas. Se les pedirá que hagan un antes y un después de sus plantillas con capturas de pantalla.
 
 ## Actividades
 
-* **Viendo páginas de otras empresas**: se visitarán las páginas de empresa de marcas peruanas (ver material). Analizando que cosas tienen en común
-* **Creación de contenidos**: Por empresa decidirán quién(es) se encarga de realizar el contenido y comenzará a estructurarlo.
-* **Revisión y elección de pĺantillas**: Por empresa decidirán quién(es) se encarga de revisar las plantillas y elegir propuestas para presentar al resto del equipo.
+* **Modificación de plantilla**: Se les dará una plantilla con la que deberán trabajar en parejas. Deberán cambiar la paleta de colores de esta plantilla en base a un cliente específico que se les dará.
 
 ## Conceptos
 
-* Contenidos
-* Arquitectura de la información
 * Plantillas
 * Licencias
 
 ## Material
 
-* 10 plantillas del pool de plantillas (por elegir)
-* Screenshots de empresas web
+CREAR SERA UN PROYECTO Y CLIENTE POR GRUPO DE TRABAJO
 
 ## Tareas
 
