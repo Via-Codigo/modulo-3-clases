@@ -58,7 +58,7 @@ if number:
         session_number = "{}".format(abs(number))
 
 else:
-    session_number = ""
+    session_number = "--"
 
 folder_name = "{} {}".format(session_number, title)
 
