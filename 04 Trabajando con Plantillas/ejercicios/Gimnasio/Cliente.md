@@ -6,7 +6,7 @@
 
 ### Slogan
 
-_Ser valiente no quita se caballero_
+_Ser valiente no quita ser caballero_
 
 ### Negocio
 
@@ -19,12 +19,13 @@ Gimnasio para entrenamiento extremo donde las muejres se sienten respetadas y se
 * Artes marciales
 * Defensea personal
 * Escalada
-* El carro tiene seguro contra accidentes
+* jugos naturales
+* nutricionista
 
 ### logo (ver carpeta)
 
 ### Colores
 
-* **principal**: #0d5e62 //turquesa
-* **secundario**: #621090 //morado
-* **terciario**: #745abd //lila
+* **principal**: rgb(28, 176, 188) //celeste
+* **secundario**:rgb(173, 49, 99) //lila
+* **terciario**: rgb(48, 55, 74) //azul oscuro
