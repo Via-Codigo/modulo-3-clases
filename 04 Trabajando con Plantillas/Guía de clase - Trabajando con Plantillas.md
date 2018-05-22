@@ -9,7 +9,7 @@
 
 ## Descripción corta
 
-Los chicos en parejas deberán aproximarse a las plantillas y aprender a hacer modificaciones en ellas. Se les pedirá que hagan un antes y un después de sus plantillas con capturas de pantalla.
+A cada pareja se le dará un cliente ficticio, los datos del cliente, logo, colores, imágenes y la plantilla que el cliente ha escogido ya. Esta tarea los enfrentará de forma desestructurada a todo lo que vendrá en los siguientes ejercicios. Esta tarea puede durar hasta 5 clases. Cada clase se irán introduciendo conceptos nuevos que ayuden a la interacción con el cliente.
 
 ## Actividades
 
@@ -22,7 +22,7 @@ Los chicos en parejas deberán aproximarse a las plantillas y aprender a hacer m
 
 ## Material
 
-CREAR SERA UN PROYECTO Y CLIENTE POR GRUPO DE TRABAJO
+* Ver la carpeta ejercicios.
 
 ## Tareas
 
