@@ -1,4 +1,4 @@
-# Escogiendo plantillas
+# Catalogando plantillas
 
 **Módulo III - Proyectos reales**
 
@@ -15,7 +15,7 @@ el estilo visual.
 
 ## Actividades
 
-* **Revisión de plantillas**: cada equipo revisará 20 plantillas y deberá generar un mini resumen de cada una para futuro uso.
+* **Revisión de plantillas**: cada equipo revisará 20+ plantillas y deberá generar un mini resumen de cada una para futuro uso.
 
 ## Conceptos
 
