@@ -5,36 +5,21 @@
 
 apis.google.com
 S3.amazonaws.com
-
-# google fonts 
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
 production.cdmycdn.com
-
-# Via código
 viacodigo.com
 www.viacodigo.com
 via-codigo.github.io
-
-# github
-
 github.io
 github.com
 www.github.com
 assets-cdn.github.com
-
-
-
-
-# unsplash
 unsplash.com
 download.unsplash.com
 images.unsplash.com
 static.unsplash.com
-
-# Icon finder
-
 iconfinder.com
 www.iconfinder.com
 cdn.ravenjs.com
@@ -44,43 +29,52 @@ cdn2.iconfinder.com
 cdn3.iconfinder.com
 cdn4.iconfinder.com
 cdn5.iconfinder.com
-
-
-# Codepen
 codepen.io
 www.codepen.io
 s.codepen.io
 static.codepen.io
 production-assets.codepen.io
 s3-us-west-2.amazonaws.com
-
-# Pexels images
-
 www.pexels.com
 pexels.com
 images.pexels.com
 static.pexels.com
-
-# Google translate
 translate.google.com
 ssl.gstatic.com
 csi.gstatic.com
 translate.googleapis.com
-
-# MDN
 develotranslate.googleapis.comper.mozilla.org
 mdn.mozillademos.org
 cdn.mdn.mozilla.net
-
-# W3School
 www.w3schools.com
 w3schools.com
-
-# Logo search
 instantlogosearch.com
 www.instantlogosearch.com
 instantlogosearch.ils.netdna-cdn.com
-
-# Devcode.la
-
+color.adobe.com
+prod.adobeccstatic.com
+wwwimages2.adobe.com
+cc-api-data.adobe.io
+coolors.co
+dpm.demdex.net
+bam.nr-data.net
+cm.g.doubleclick.net/pixel
+rtd.tubemogul.com
+adobe-sync.dotomi.com
+use.typekit.net
+p.typekit.net
+prod.adobeccstatic.com
+adobeid-na1.services.adobe.com
+c.evidon.com
+www.crearlogogratisonline.com
+crearlogogratisonline.com
+d2obqdcu65mqik.cloudfront.net
+apis.google.com
+ajax.googleapis.com
+maxcdn.bootstrapcdn.com
+es.freelogodesign.org
+freelogodesign.org
+api.freelogodesign.org
+editor.freelogodesign.org
+d30y9cdsu7xlg0.cloudfront.net
 ######################################################
