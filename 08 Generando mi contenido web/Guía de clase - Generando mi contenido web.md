@@ -25,5 +25,5 @@ Los chicos deberán pensar en todo el contenido web que necesitan en base a las 
 
 * JPG de las páginas de empresas peruanas. Ver carpeta con material.
 * [Plantilla de petición de contenidos](https://drive.google.com/open?id=1Im6LM2kT6tXLq9BRXvadWwCQqOHhKbc6boPOD8i8KKE)
-
+* [Creador de logos](es.freelogodesign.org)
 ## Tareas
