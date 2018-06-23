@@ -6,7 +6,7 @@ Este repositorio sirve para ir generando las clases específicas del módulo 3, 
 
 ### Software
 
-* **[Pencil](https://pencil.evolus.vn/)**: Herramienta de linux offline para wireframes
+- **[Formspree](https://formspree.io/)**: Sistema de envío de formularios para sus webs
 
 ### Templates
 
