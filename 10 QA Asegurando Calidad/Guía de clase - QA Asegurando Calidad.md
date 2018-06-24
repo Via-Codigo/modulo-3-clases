@@ -31,7 +31,9 @@ Se enfocarán en dos tipos de errores, Visuales/Usabilidad y en errores de Funci
 - **Xrespond**: [http://app.xrespond.com/](http://app.xrespond.com/)
 - **GTmetrix**: [https://gtmetrix.com/](https://gtmetrix.com/)
 - **Imágenes de issues**: En esta carpeta, acompañan el spreadsheet
-- **Hoja de issues**: En esta carpeta, acompaña las imágenes de issues
+- **Hoja de issues de diseño UX**: En esta carpeta, acompaña las imágenes de issues
+- **Hoja de issues de interacciones**: En esta carpeta
+- **Presentación PPT**: [en gdrive](https://docs.google.com/presentation/d/1rFoK8yaJWJFqRXmKIaCzNI5PcPgQVyNuthr40NTAAfE/edit?usp=sharing)
 
 ## Tareas
 
